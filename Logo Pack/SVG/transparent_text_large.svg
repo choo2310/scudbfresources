@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logos" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1609.55 409.6">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Archivo-SemiBoldItalic, Archivo;
+        font-size: 215.36px;
+        font-style: italic;
+        font-variation-settings: 'wght' 600, 'wdth' 100;
+        font-weight: 600;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #b31e3b;
+      }
+
+      .cls-2 {
+        font-family: TradeGothicLTStd, 'Trade Gothic LT Std';
+        font-size: 130.48px;
+      }
+    </style>
+  </defs>
+  <text/>
+  <g>
+    <text class="cls-1" transform="translate(0 215.78)"><tspan x="0" y="0">Design Build Fly</tspan></text>
+    <text class="cls-2" transform="translate(6.46 380.37)"><tspan x="0" y="0">Santa Clara University</tspan></text>
+  </g>
+</svg>
